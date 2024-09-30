@@ -18,7 +18,7 @@ class Person {
         }
 
         void print_info() {
-            cout << "I am " << name << " and I am " << age << " years old." << endl;
+            cout << "Hello! My name is " << name << ". I am " << age << " years old " << endl;
         }
 
     public:
@@ -34,3 +34,4 @@ int main() {
 
     return 0;
 }
+
